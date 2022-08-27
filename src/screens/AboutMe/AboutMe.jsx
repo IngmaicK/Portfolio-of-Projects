@@ -10,7 +10,7 @@ function AboutMe() {
       <div>
         <h1>About Me</h1>
         <p>
-          I'm an Electrical and Mechanical Engineer specialized on manufacturing process, automation and currently i'm focused on develop a digital mindset to implement on Smart Factory Solutions. I like to Brew my Own Beer and Write my own Code.
+          I'm an Electrical and Mechanical Engineer specialized on manufacturing process, automation and currently i'm focused on develop a digital mindset to implement on Smart Factory Solutions. I like to Brew my Own Beer and Write my own Code. I love my family
 
         </p>
       </div>
