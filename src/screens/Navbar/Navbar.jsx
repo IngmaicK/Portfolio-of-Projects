@@ -36,11 +36,11 @@ function Navbar() {
       </div>
       {showLinks && (
         <div className="navbar-links-container">
-          <a href="#home">Home</a>
-          <a href="#aboutme">About Me</a>
-          <a href="#technologies">Techonologies</a>
-          <a href="#portfolio">Portfolio</a>
-          <a href="#contact">Contact</a>
+          <a href="#home">Inicio</a>
+          <a href="#aboutme">Sobre mi</a>
+          <a href="#technologies">Tecnologias</a>
+          <a href="#portfolio">Portafolio</a>
+          <a href="#contact">Contacto</a>
         </div>
       )}
     </div>
