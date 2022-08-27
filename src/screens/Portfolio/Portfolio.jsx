@@ -27,9 +27,9 @@ function Portfolio() {
     <div id="portfolio" className="portfolio-container">
       <h1>Portfolio</h1>
       <p>
-        This is my github page{" "}
-        <a href="https://www.google.com" target="_blank" rel="noreferrer">
-          https://somewhere.net
+        This is my GitHub page{" "}
+        <a href="https://github.com/IngmaicK" target="_blank" rel="noreferrer">
+          My Github
         </a>
       </p>
       <div className="portfolio-grid">

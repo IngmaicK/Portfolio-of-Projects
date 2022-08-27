@@ -24,7 +24,7 @@ import "./AnimatedBackground.css";
 
 function AnimatedBackground({ children }) {
   let arr = [];
-  let qty = 15;
+  let qty = 20;
 
   for (let i = 0; i < qty; i++) {
     arr.push(i);

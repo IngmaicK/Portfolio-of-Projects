@@ -1,0 +1,23 @@
+[33mcommit 56be9099397ebeb0befbd8c7a2dfab2869517a33[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Miguel <ingmaick@gmail.com>
+Date:   Sat Aug 27 01:24:54 2022 -0700
+
+    Adding technologies, navbar and about me
+
+[33mcommit 23f1cf59d2746ad628b0bdd7e619404c1b289f08[m
+Author: Miguel <ingmaick@gmail.com>
+Date:   Sat Aug 27 00:16:46 2022 -0700
+
+    Adding files to remote repository
+
+[33mcommit 1ae3d5a71d406cde7db9f7eb670ed50834b1097e[m
+Author: Miguel <ingmaick@gmail.com>
+Date:   Sat Aug 27 00:16:13 2022 -0700
+
+    first commit
+
+[33mcommit bcb01945831b0d8079ca97e738695a935fed13b2[m
+Author: Miguel <ingmaick@gmail.com>
+Date:   Fri Aug 26 23:50:29 2022 -0700
+
+    Initialize project using Create React App
