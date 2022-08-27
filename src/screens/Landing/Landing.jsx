@@ -3,11 +3,12 @@ import "./Landing.css";
 
 let msgArray = [
   " ",
-  "A Software Engineer",
-  "Also known as an",
+  "A Tech Product Developer Specialist",
+  "An Electrical and Mechanical Engineer",
   "Front-end developer",
   "Back-end developer",
   "Full stack developer",
+  "Data Analist",
   "Or!",
   '"a coder"',
   " ",
